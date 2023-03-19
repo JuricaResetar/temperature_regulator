@@ -1,0 +1,3 @@
+/home/evboxer/private/build/CMakeFiles/temperature_regulator.dir
+/home/evboxer/private/build/CMakeFiles/edit_cache.dir
+/home/evboxer/private/build/CMakeFiles/rebuild_cache.dir
