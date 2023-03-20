@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/temperature_regulator.dir/main.cpp.o -o temperature_regulator 
